@@ -1,3 +1,5 @@
+package com.serugle.sergey.telephonenumber
+
 plugins {
     id 'java'
 }
